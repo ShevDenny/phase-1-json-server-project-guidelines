@@ -1,158 +1,179 @@
 {
-  "books": [
+  "Movies": [
     {
       "id": 1,
-      "author": "Chinua Achebe",
-      "country": "Nigeria",
-      "language": "English",
-      "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart",
-      "pages": 209,
-      "title": "Things Fall Apart",
-      "year": 1958,
-      "likes": 0
+      "title": "Army Of The Dead", 
+      "image": "https://m.media-amazon.com/images/M/MV5BNGY0NzgzYzctYWQwMC00MzM2LThjNGMtZjFjMWUyNzg0ZmM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+      "description": "Vegas is a zombie wasteland. But with $200 million on the line, they're ready to roll the dice on an impossible heist.",
+      "year": 2021,
+      "cast": ["Dave Bautista", "Ella Purnell", "Omari Hardwick", "Garret Dillahunt", "Ana de la Reguera", "Theo Rossi", "Matthias Schweighöfer", "Nora Arnezeder", "Hiroyuki Sanada", "Tig Notaro", "Raúl Castillo", "Huma Qureshi", "Samantha Win", "Richard Cetrone", "Michael Cassidy"],
+      "genre": "Action",
+      "rated": "R"
     },
     {
       "id": 2,
-      "author": "Hans Christian Andersen",
-      "country": "Denmark",
-      "language": "Danish",
-      "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.",
-      "pages": 784,
-      "title": "Fairy tales",
-      "year": 1836,
-      "likes": 0
+      "title": "Homefront",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUwOTAzNzAwMl5BMl5BanBnXkFtZTgwOTc1NDIyMDE@._V1_.jpg",
+      "description": "A former DEA agent moves his family to a quiet town, where he soon tangles with a local meth druglord.", 
+      "year": 2013,
+      "cast": ["Jason Statham", "James Franco", "Winona Ryder", "Kate Bosworth", "Izabela Vidovic", "Marcus Hester"],
+      "genre": "Action",
+      "rated": "R"
+
     },
     {
       "id": 3,
-      "author": "Dante Alighieri",
-      "country": "Italy",
-      "language": "Italian",
-      "link": "https://en.wikipedia.org/wiki/Divine_Comedy",
-      "pages": 928,
-      "title": "The Divine Comedy",
-      "year": 1315,
-      "likes": 0
+      "title": "The Take",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTAyNDc3MDMwMDNeQTJeQWpwZ15BbWU4MDkyMzc5MjAy._V1_.jpg",
+      "description": "A young pickpocket and an unruly CIA agent team up on an anti-terrorist mission in France.", 
+      "year": 2016,
+      "cast": ["Idris Elba", "Richard Madden", "Charlotte Le Bon", "Kelly Reilly"],
+      "genre": "Action",
+      "rated": "R"
+
     },
     {
       "id": 4,
-      "author": "Jane Austen",
-      "country": "United Kingdom",
-      "language": "English",
-      "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice",
-      "pages": 226,
-      "title": "Pride and Prejudice",
-      "year": 1813,
-      "likes": 0
+      "title": "The Matrix",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
+      "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.", 
+      "year": 1999,
+      "cast": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss", "Hugo Weaving", "Gloria Foster", "Joe Pantoliano"],
+      "genre": "Action",
+      "rated": "R"
+
     },
     {
       "id": 5,
-      "author": "Samuel Beckett",
-      "country": "Republic of Ireland",
-      "language": "French, English",
-      "link": "https://en.wikipedia.org/wiki/Molloy_(novel)",
-      "pages": 256,
-      "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
-      "year": 1952,
-      "likes": 0
+      "title": "HOME",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjExOTQ4MDMyMV5BMl5BanBnXkFtZTgwMTE3NDM2MzE@._V1_FMjpg_UX1000_.jpg",
+      "description": "When misfit alien Oh mistakenly sends a party invite to the entire galaxy, he goes on the run to avoid trouble and befriends spunky human girl Tip.",
+      "year": 2015,
+      "cast": ["Jim Parsons", "Rihanna", "Steve Martin", "Jennifer Lopez", "Matt Jones", "Brian Stepanek", "April Lawrence"],
+      "genre": "Kids",
+      "rated": "PG"
+
     },
     {
       "id": 6,
-      "author": "Giovanni Boccaccio",
-      "country": "Italy",
-      "language": "Italian",
-      "link": "https://en.wikipedia.org/wiki/The_Decameron",
-      "pages": 1024,
-      "title": "The Decameron",
-      "year": 1351,
-      "likes": 0
+      "title": "Dog Gone Trouble",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTMxNDU1NDctY2YyYi00NzVmLWJlYTItMDZhNzMzZjhmYmIyXkEyXkFqcGdeQXVyODEwMTEzOTE@._V1_.jpg",
+      "description": "The privileged life of a pampered dog named Trouble is turned upside-down when he gets lost and must learn to survive on the big-city streets.",
+      "year": 2021,
+      "cast": ["Big Sean", "Pamela Adlon", "Lucy Hale", "Marissa Jaret Winokur", "Wilmer Valderrama", "Joel McHale", "Seth Rollins", "Damon Wayans Jr.", "Olivia Holt", "Carlos PenaVega", "Betty White"],
+      "genre": "Kids",
+      "rated": "TV-Y7"
+
     },
     {
       "id": 7,
-      "author": "Jorge Luis Borges",
-      "country": "Argentina",
-      "language": "Spanish",
-      "link": "https://en.wikipedia.org/wiki/Ficciones",
-      "pages": 224,
-      "title": "Ficciones",
-      "year": 1965,
-      "likes": 0
+      "title": "Madagascar: Escape 2 Africa",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjExMDA4NDcwMl5BMl5BanBnXkFtZTcwODAxNTQ3MQ@@._V1_FMjpg_UX1000_.jpg",
+      "description": "Kooky zoo animals from New York adjust to new digs after getting stuck in Africa, but there's still no place like home.",
+      "year": 2008,
+      "cast": ["Ben Stiller", "Chris Rock", "David Schwimmer", "Jada Pinkett Smith", "Sacha Baron Cohen", "Cedric the Entertainer", "Andy Richter", "Bernie Mac", "Alec Baldwin", "Sherri Shepherd"],
+      "genre": "Kids",
+      "rated": "PG" 
+
     },
     {
       "id": 8,
-      "author": "Albert Camus",
-      "country": "Algeria, French Empire",
-      "language": "French",
-      "link": "https://en.wikipedia.org/wiki/The_Stranger_(novel)",
-      "pages": 185,
-      "title": "The Stranger",
-      "year": 1942,
-      "likes": 0
+      "title": "Cloudy with a chance of Meatballs",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg0MjAwNDI5MV5BMl5BanBnXkFtZTcwODkyMzg2Mg@@._V1_.jpg",
+      "description": "When inventor Flint Lockwood makes clouds rain food, the citizens of Chewandswallow can feed themselves. But a bowl of disaster is about to overflow.",
+      "year": 2009,
+      "cast": ["Bill Hader", "Anna Faris", "James Caan", "Andy Samberg", "Bruce Campbell", "Mr. T,Bobbe'e J. THompson", "Benjamin Bratt", "Neil Patrick Harris", "Al Roker"],
+      "genre": "Kids",
+      "rated": "PG"
+
     },
     {
       "id": 9,
-      "author": "Miguel de Cervantes",
-      "country": "Spain",
-      "language": "Spanish",
-      "link": "https://en.wikipedia.org/wiki/Don_Quixote",
-      "pages": 1056,
-      "title": "Don Quijote De La Mancha",
-      "year": 1610,
-      "likes": 0
+      "title": "Bebe's Kids",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjA0YzFkYjUtNzFjNS00Mjg4LThlZGItMDI2NGEwZDRlODAzXkEyXkFqcGdeQXVyMTEwODg2MDY@._V1_.jpg",
+      "description": "When ladies' man Robin meets Jamika, he falls head over heels, but she greets him with four surprises: her son and her girlfriend Bebe's three kids.",
+      "year": 1992,
+      "cast": ["Faizon Love", "Vanessa Bell Calloway", "Wayne Collins", "Jonell Green", "Marques Houston", "Tone-Loc", "Myra J.", "Nell Carter"],
+      "genre": "Comedy",
+      "rated": "PG-13"
+
     },
     {
       "id": 10,
-      "author": "Geoffrey Chaucer",
-      "country": "England",
-      "language": "English",
-      "link": "https://en.wikipedia.org/wiki/The_Canterbury_Tales",
-      "pages": 544,
-      "title": "The Canterbury Tales",
-      "year": 1450,
-      "likes": 0
+      "title": "The Wrong Missy",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2QwZWJlZjMtNzU5NC00NTA0LWI1MjQtYWQ1ZTg4NWZmNjdkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+      "description": "Tim thinks he's invited the woman of his dreams on a work retreat to Hawaii, realizing too late he mistakenly texted someone from a nightmare blind date.",
+      "year": 2020,
+      "cast": ["David Spade", "Lauren Lapkus", "Nick Swardson", "Geoff Pierson", "Jackie Sandler", "Sarah Chalke", "Rob Scheider", "Chris Witaske", "Joe Anoa'i", "Molly Sims"],
+      "genre": "Comedy",
+      "rated": "TV-MA"
+
     },
     {
       "id": 11,
-      "author": "Anton Chekhov",
-      "country": "Russia",
-      "language": "Russian",
-      "link": "https://en.wikipedia.org/wiki/List_of_short_stories_by_Anton_Chekhov",
-      "pages": 194,
-      "title": "Stories",
-      "year": 1886,
-      "likes": 0
+      "title": "The Breakfast Club",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTM5N2ZmZTMtNjlmOS00YzlkLTk3YjEtNTU1ZmQ5OTdhODZhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+      "description": "Five high school students meet in Saturday detention and discover how they have a lot more in common than they thought.",
+      "year": 1985,
+      "cast": ["Emilio Estevez", "Molly Ringwald", "Judd Nelson", "Paul Gleason", "Anthony Michael Hall", "John Kapelos", "Ally Sheedy", "Perry Crawford" ],
+      "genre": "Comedy",
+      "rated": "R"
+      
     },
     {
       "id": 12,
-      "author": "Joseph Conrad",
-      "country": "United Kingdom",
-      "language": "English",
-      "link": "https://en.wikipedia.org/wiki/Nostromo",
-      "pages": 320,
-      "title": "Nostromo",
-      "year": 1904,
-      "likes": 0
+      "title": "Superbad",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc0NjIyMjA2OF5BMl5BanBnXkFtZTcwMzIxNDE1MQ@@._V1_FMjpg_UX1000_.jpg",
+      "description": "Hoping to have sex before college, high school seniors Seth and Evan try to score booze for a huge party, leading to a series of wild misadventures.",
+      "year": 2007,
+      "cast": ["Jonah Hill", "Michael Cera", "Christopher Mintz-Plasse", "Bill Hader", "Seth Rogan", "Martha Maclsaac", "Emma Stone", "Aviva Baumann", "Joe Lo Truglio", "Kevin Corrigan"],
+      "genre": "Comedy",
+      "rated": "R"  
+      
     },
     {
       "id": 13,
-      "author": "Charles Dickens",
-      "country": "United Kingdom",
-      "language": "English",
-      "link": "https://en.wikipedia.org/wiki/Great_Expectations",
-      "pages": 194,
-      "title": "Great Expectations",
-      "year": 1861,
-      "likes": 0
+      "title": "A Quiet Place",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzxae9RyCpIU203H1tOhguhX2zNLJUUkLijA&usqp=CAU",
+      "description":"Following the deadly events at home, the Abbott family must now face the terrors of the outside world as they continue their fight for survival in silence. Forced to venture into the unknown, they quickly realize that the creatures that hunt by sound are not the only threats that lurk beyond the sand path.",
+      "year": 2021,
+      "cast": ["John Krasinski", "Emily Blunt", "Noah Jupe", "Millicent Simmonds"],
+      "genre": "Horror",
+      "rated": "PG-13"
+      
     },
     {
       "id": 14,
-      "author": "Denis Diderot",
-      "country": "France",
-      "language": "French",
-      "link": "https://en.wikipedia.org/wiki/Jacques_the_Fatalist",
-      "pages": 596,
-      "title": "Jacques the Fatalist",
-      "year": 1796,
-      "likes": 0
+      "title": "US",
+      "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BZTliNWJhM2YtNDc1MC00YTk1LWE2MGYtZmE4M2Y5ODdlNzQzXkEyXkFqcGdeQXVyMzY0MTE3NzU%40._V1_.jpg&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt6857112%2F&tbnid=YZWb_Qo1ufBIrM&vet=12ahUKEwivg7f5p_nwAhXQeDABHczpAGYQMygAegUIARCxAQ..i&docid=4kzc3KrV1j5DeM&w=1895&h=3000&q=us%20imdb&ved=2ahUKEwivg7f5p_nwAhXQeDABHczpAGYQMygAegUIARCxAQ",
+      "description": "Accompanied by her husband, son and daughter, Adelaide Wilson returns to the beachfront home where she grew up as a child. Haunted by a traumatic experience from the past, Adelaide grows increasingly concerned that something bad is going to happen.",
+      "year": 2019,
+      "cast": ["Lupita Nyong'o","Winston Duke","Shahadi Wright","Evan Alex"],
+      "genre": "Horror",
+      "rated": "R"
+      
+    },
+    {
+      "id": 15,
+      "title": "BrightBurn",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzRlYTA5Y2ItMTY3Yy00MTNiLThhN2UtNTU0MzFjYzA5MzQxXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
+      "description":"After a difficult struggle with fertility, Tori Breyer's dreams of motherhood come true with the arrival of a mysterious baby boy. Brandon appears to be everything Tori and her husband, Kyle, ever wanted -- bright, talented and curious about the world", 
+      "year": 2019,
+      "cast":["Jackson Dunn","ElizaBeth Banks","David Denman"],
+      "genre":"Horror",
+      "rated": "R"  
+      
+    },
+    {
+      "id": 16,
+      "title": "The Nun",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjM3NzQ5NDcxOF5BMl5BanBnXkFtZTgwNzM4MTQ5NTM@._V1_.jpg",
+      "description": "A priest with a haunted past and a novice on the threshold of her final vows are sent by the Vatican to investigate the death of a young nun in Romania and confront a malevolent force in the form of a demonic nun.",
+      "year": 2018,
+      "cast": ["Demián Bichir", "Taissa Farmiga", "Jonas Bloquet", "Bonnie Aarons", "Ingrid Bisu", "Patrick Wilson"],
+      "genre": "Horror", 
+      "rated": "R"
+      
     }
   ]
 }
